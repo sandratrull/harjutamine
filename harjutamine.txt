@@ -1,1 +1,5 @@
 GitHub on versioonihalduseks kasutatud tarkvaraarendajate ning teiste programmeerijate poolt
+
+Tulevikus saan kasutada seda versioonihalduseks
+
+GitHubi arendamine algas aastal 2007, kuid avalikkusele sai see saadavaks vaid aastal 2008
