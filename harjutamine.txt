@@ -1,1 +1,3 @@
 GitHub on versioonihalduseks kasutatud tarkvaraarendajate ning teiste programmeerijate poolt
+
+Tulevikus saan kasutada seda versioonihalduseks
